@@ -1,0 +1,10 @@
+artifact_location: file:///D:/10/credit-risk-model/mlruns/511569840454863934/models/m-5bd44d3d292142ce9f02e7c90607fd1f/artifacts
+creation_timestamp: 1753096760526
+experiment_id: '511569840454863934'
+last_updated_timestamp: 1753096767126
+model_id: m-5bd44d3d292142ce9f02e7c90607fd1f
+model_type: null
+name: model
+source_run_id: null
+status: 2
+status_message: null

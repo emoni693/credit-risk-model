@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/10/credit-risk-model/mlruns/511569840454863934/ffb9be8895a24738a4b43bc7982b7d55/artifacts
+end_time: 1753100028963
+entry_point_name: ''
+experiment_id: '511569840454863934'
+lifecycle_stage: active
+run_id: ffb9be8895a24738a4b43bc7982b7d55
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753100028925
+status: 3
+tags: []
+user_id: amanu

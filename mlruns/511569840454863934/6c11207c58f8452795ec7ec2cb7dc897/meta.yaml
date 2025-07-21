@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/10/credit-risk-model/mlruns/511569840454863934/6c11207c58f8452795ec7ec2cb7dc897/artifacts
+end_time: 1753096795004
+entry_point_name: ''
+experiment_id: '511569840454863934'
+lifecycle_stage: active
+run_id: 6c11207c58f8452795ec7ec2cb7dc897
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753096794951
+status: 3
+tags: []
+user_id: amanu

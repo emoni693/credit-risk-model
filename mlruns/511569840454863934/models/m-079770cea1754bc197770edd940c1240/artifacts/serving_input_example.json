@@ -1,0 +1,24 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "amount",
+      "value",
+      "transactionhour",
+      "transactionmonth"
+    ],
+    "data": [
+      [
+        500.0,
+        500,
+        9,
+        2
+      ],
+      [
+        2000.0,
+        2000,
+        19,
+        1
+      ]
+    ]
+  }
+}
